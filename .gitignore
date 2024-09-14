@@ -1,0 +1,19 @@
+# custom files
+/Real-ESRGAN\.git
+/Real-ESRGAN\results
+/flagged
+/results
+/weights
+/app.log
+/__pycache__
+/inswapper_128.onnx
+
+# temp files directories
+cache/
+log/
+*.swp
+.DS_Store
+
+# editor configs
+.vscode
+.idea
