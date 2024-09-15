@@ -22,4 +22,4 @@ img2video = gr.Interface(fn=img2video,
 )
 demo = gr.TabbedInterface([img2img, img2video], ["Image", "Video"])
 
-demo.launch(server_name="0.0.0.0", server_port=5000, debug=False)
+demo.launch(server_name="0.0.0.0", server_port=5000, debug=True, share=True)

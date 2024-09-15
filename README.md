@@ -38,6 +38,7 @@ Now, you can access the application at localhost:5000
 
 ## Results
 Below are images of the application interface.
+
 ![demo](demo/demo.jpg)
 
 ## Special Thanks To
