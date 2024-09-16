@@ -21,7 +21,7 @@ def face_swap(source_image, destination_image):
     # Initialize face analysis and swapper models
     app = FaceAnalysis(name='buffalo_l')
     app.prepare(ctx_id=0, det_size=(640, 640))
-    swapper = insightface.model_zoo.get_model('bufallo_l/inswapper_128.onnx')
+    swapper = insightface.model_zoo.get_model('buffalo_l/inswapper_128.onnx')
 
     # Detect and swap faces
     faces_source = app.get(source_image)
