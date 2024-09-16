@@ -1,8 +1,12 @@
 # Face Swap
 
-## Description
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CJWwFcV0jCu5PSQzQXmVeh2WeTZbA1m6?usp=sharing)
+
+👉 [Watch demo](https://drive.google.com/file/d/1UbqVzB4872PQH_JFKEiD2BbJVtxuJ7GX/view?usp=sharing)
 
 Face Swap is a generative AI technology to swap faces (aka Deep Fake) in images from one to another. This is a one shot face-swap model; for this reason only one face is needed to swap. It should work for all kinds of content. The face swapping model itself was created by [Insightface](https://github.com/deepinsight/insightface)
+
+:warning: Please, before using the code from this repository, make sure to read the [disclaimer](https://github.com/dxcanh/face_swap/tree/main#disclaimer).
 
 ## Installation
 
